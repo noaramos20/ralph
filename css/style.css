@@ -55,6 +55,11 @@ header img{
     border-radius: 50%
 }
 
+header img.vanellope{
+    border: 20px solid rgb(25, 241, 187);
+    border-radius: 50%
+}
+
 h1{
     font-family: "Jersey 20", sans-serif;
     font-weight: 400;
